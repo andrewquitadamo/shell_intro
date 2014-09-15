@@ -1,6 +1,8 @@
 #Useful *nix Commands  
 This is a list to get comfortable with the command line and some of what it can do. Most of these commands have many more options, and are more powerful than the simple examples here. They are commands I've found useful, but it is by no means an exhaustive list. 
-In this repo there is also an IPython Notebook with examples that can be viewed at ...
+In this repo there is also an IPython Notebook with examples that can be viewed [here](http://nbviewer.ipython.org/github/andrewquitadamo/shell_intro/blob/master/intro_to_shell.ipynb).
+There is also a video [here](https://www.youtube.com/watch?v=vt9PtyKktxA).
+ 
 ##Moving Around   
 ###pwd  
 Prints path of current directory:  
