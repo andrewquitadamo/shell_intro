@@ -145,6 +145,15 @@ Filter out repeated lines:
 ```
 uniq file1 > file2
 ```  
+###cut
+Get second column from a file
+```
+cut -f 2 file1
+```
+Get first to fouth columns:
+```
+cut -f 1-4 file1
+```
 ###vim  
 Open a file in vim to edit:  
 ```
